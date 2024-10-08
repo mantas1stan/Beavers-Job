@@ -2,6 +2,10 @@
 Beaver Simulation Game
 This project is part of my bachelor thesis, "Application of Dynamic Maps in 2D Simulation Games." It showcases how dynamic, procedurally generated environments can enhance gameplay in 2D simulation games. Built with Unity and C#, the game features turn-based strategy mechanics, resource management, and adaptive terrain that evolves based on player actions.
 
+Video Showcase
+The video below demonstrates how player actions and the passage of time dynamically affect the game environment, including terrain, resources, and structures.
+[Map Dynamics Showcase](./BeaversJobMapVideo.mp4)
+
 Features
 Turn-Based Strategy: Manage beaver actions like moving, building, and gathering.
 Dynamic Environment: Procedural tile-based terrain (trees, rivers) evolves over time.
