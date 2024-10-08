@@ -14,7 +14,7 @@ Structure Building: Construct dams, lodges, and canals, each affecting gameplay 
 
 Installation
 1. Clone repository.
-2. Open in Unity and load the MainMenu scene.
+2. Open Beavers Job folder in Unity and load the MainMenu scene.
 
 Core Mechanics
 
