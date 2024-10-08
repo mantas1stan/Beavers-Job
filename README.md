@@ -1,6 +1,6 @@
 # Beavers-Job
 Beaver Simulation Game
-This repository contains a turn-based resource management game developed using Unity. Players control beavers, gather resources, build dams and lodges, and manage a dynamic environment to meet the game’s win conditions.
+This project is part of my bachelor thesis, "Application of Dynamic Maps in 2D Simulation Games." It showcases how dynamic, procedurally generated environments can enhance gameplay in 2D simulation games. Built with Unity and C#, the game features turn-based strategy mechanics, resource management, and adaptive terrain that evolves based on player actions.
 
 Features
 Turn-Based Strategy: Manage beaver actions like moving, building, and gathering.
