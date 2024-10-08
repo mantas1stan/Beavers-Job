@@ -7,10 +7,10 @@ The video below demonstrates how player actions and the passage of time dynamica
 [Map Dynamics Showcase](./BeaversJobMapVideo.mp4)
 
 Features
-Turn-Based Strategy: Manage beaver actions like moving, building, and gathering.
-Dynamic Environment: Procedural tile-based terrain (trees, rivers) evolves over time.
-Resource Management: Collect wood, stone, and food to build structures and maintain the colony.
-Structure Building: Construct dams, lodges, and canals, each affecting gameplay and win conditions.
+A. Turn-Based Strategy: Manage beaver actions like moving, building, and gathering.
+B. Dynamic Environment: Procedural tile-based terrain (trees, rivers) evolves over time.
+C. Resource Management: Collect wood, stone, and food to build structures and maintain the colony.
+D. Structure Building: Construct dams, lodges, and canals, each affecting gameplay and win conditions.
 
 Installation
 1. Clone repository.
